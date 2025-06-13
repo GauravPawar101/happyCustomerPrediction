@@ -35,7 +35,7 @@ project/
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/customer-satisfaction-zenml.git
+git clone https://github.com/GauravPawar101/happyCustomerPrediction.git
 cd customer-satisfaction-zenml
 2. Set up the environment
 Using Conda or venv recommended
